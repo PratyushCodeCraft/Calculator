@@ -22,7 +22,7 @@ This is a simple calculator built using **HTML, CSS, and JavaScript**. It provid
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/PratyushCodeCraft/Calculator.git
    ```
 2. Navigate to the project directory:
    ```sh
